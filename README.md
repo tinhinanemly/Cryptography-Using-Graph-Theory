@@ -1,57 +1,46 @@
-Merci de la précision ! Voici un exemple de **README.md** pour ton projet de cryptographie portant sur les **cliques**, les **arbres couvrants**, et le protocole de **Diffie-Hellman**, structuré pour refléter un travail académique ou technique :
+
+# Cryptography Project — Cliques, Spanning Trees & Diffie-Hellman
+
+##  Description
+
+This project aims to combine concepts from **cryptography** and **graph theory** in the context of secure communication simulation. It revolves around the following core components:
+
+* **Detection of maximal cliques** in a communication graph.
+* **Construction of optimal spanning trees**.
+* **Diffie-Hellman key exchange** between nodes in the graph.
+* **Simulation of the entire process using a graphical tool (e.g., SN3 or equivalent)**.
 
 ---
 
-# 🔐 Projet de Cryptographie — Cliques, Arbres couvrants & Diffie-Hellman
+## Learning Objectives
 
-## 📘 Description
-
-Ce projet a pour objectif de combiner des concepts de **cryptographie** et de **théorie des graphes** dans un contexte de simulation de communication sécurisée. Il s'articule autour des notions suivantes :
-
-* **Détection de cliques maximales** dans un graphe de communication.
-* **Construction d’arbres couvrants optimaux**.
-* **Échange de clés Diffie-Hellman** entre nœuds du graphe.
-* **Simulation de l’ensemble du processus via un outil graphique (SN3 ou outil équivalent)**.
-
----
-
-## 🧠 Objectifs pédagogiques
-
-* Comprendre le rôle des structures de graphe dans la sécurité des communications.
-* Implémenter l'échange de clé Diffie-Hellman de manière distribuée.
-* Explorer les implications de la topologie réseau sur la sécurité.
+* Understand the role of graph structures in secure communication.
+* Implement Diffie-Hellman key exchange in a distributed network.
+* Explore how network topology influences cryptographic security.
 
 ![image](https://github.com/user-attachments/assets/77cab1d0-17c0-4887-a2e3-822b44612766)
 
+---
 
+##  Key Features
 
-## ⚙️ Fonctionnalités principales
-
-* 📈 **Génération d’un graphe aléatoire** représentant un réseau de communication.
-* 🔎 **Détection automatique de cliques** à l’aide d’algorithmes combinatoires.
-* 🌲 **Construction d’un arbre couvrant** pour minimiser le coût global de communication.
-* 🔐 **Nouvelle Methode d'echange de clés sécurisé ** conbinaisant de deffie hellman et graph isomorphe
-* 🖥️ **Simulation graphique** des échanges et du réseau.
-
+* **Random graph generation** to simulate communication networks.
+* **Automatic clique detection** using combinatorial algorithms.
+* **Spanning tree construction** to minimize communication cost.
+* **New hybrid key exchange method**, combining Diffie-Hellman with graph isomorphism.
+* **Graphical simulation** of the key exchanges and network activity.
 
 ---
 
-
-
-## 🧰 Technologies utilisées
+##  Technologies Used
 
 * Python 3
-* NetworkX (pour les graphes)
-* Matplotlib / Pyvis (pour la visualisation)
-* Algorithmes maison pour cliques et arbre couvrant
+* NetworkX (for graph processing)
+* Matplotlib (for visualization)
 
 ---
 
-## 👤 Auteurs
+##  Authors
 
-* Nom 1 — Étudiant(e) en sécurité informatique
-* Nom 2 — Université XYZ, 2025
-
----
-
-Souhaites-tu que je t'aide aussi à créer les fichiers `requirements.txt` ou `main.py` de base ?
+* Mellaz Maya Melissa
+* Moulai Tinhinane
