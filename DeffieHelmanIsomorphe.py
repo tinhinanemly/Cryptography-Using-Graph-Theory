@@ -5,6 +5,7 @@ from hashlib import sha256
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
+
 class DiffieHellmanGraphIsomorphism:
     def __init__(self, n_nodes=20, edge_probability=0.5):
         """
