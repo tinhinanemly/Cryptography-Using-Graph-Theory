@@ -42,5 +42,5 @@ This project aims to combine concepts from **cryptography** and **graph theory**
 
 ##  Authors
 
-* Mellaz Maya Melissa
 * Moulai Tinhinane
+* Mellaz Maya Melissa
