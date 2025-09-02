@@ -42,5 +42,26 @@ This project aims to combine concepts from **cryptography** and **graph theory**
 
 ##  Authors
 
+
+## My Contribution
+
+* Designed and implemented the Diffie–Hellman key exchange algorithm using graph isomorphism theory.
+
+* Developed the protocol steps for secure key agreement between Alice and Bob.
+
+* Simulated the process to demonstrate how graph isomorphisms can serve as the “hard problem” in cryptographic exchange.
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Moulai Tinhinane
 * Mellaz Maya Melissa
