@@ -42,6 +42,9 @@ This project aims to combine concepts from **cryptography** and **graph theory**
 
 ##  Authors
 
+* Moulai Tinhinane
+* Mellaz Maya Melissa
+
 
 ## My Contribution
 
@@ -63,5 +66,4 @@ This project aims to combine concepts from **cryptography** and **graph theory**
 
 
 
-* Moulai Tinhinane
-* Mellaz Maya Melissa
+
